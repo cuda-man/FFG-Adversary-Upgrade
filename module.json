@@ -1,0 +1,19 @@
+{
+  "name": "fvtt-adversary-automation",
+  "title": "FFG SWRPG - Adversary Automation",
+  "description": "Automatically upgrades difficulty when targeting an actor with the Adversary talent.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Your Name",
+      "url": "https://github.com/YourGithub",
+      "discord": "YourDiscord#1234"
+    }
+  ],
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "system": ["starwarsffg"],
+  "esmodules": ["scripts/adversary.js"],
+  "manifest": "https://raw.githubusercontent.com/YourGithub/fvtt-adversary-automation/main/module.json",
+  "download": "https://github.com/YourGithub/fvtt-adversary-automation/archive/refs/heads/main.zip"
+}
